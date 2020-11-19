@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+console.log(
+  'This is the sample program for brew package manager written in JS.'
+);
